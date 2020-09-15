@@ -2,7 +2,7 @@
 
 The purpose of this repository is to **help you get started with the basic tools :hammer: and code :computer:** needed to follow along in the workshop. It will also serve as the single source of truth, hosting the latest version of our facemask :mask: detector workshop material :books:.
 
-We hope that you will find great joy and meaning in our workshop! :joy:
+We hope that you will find great joy and meaning in our workshop! :joy: Consider giving this repository a star :star: if you found it helpful!
 
 # Table of contents:
 
@@ -11,6 +11,7 @@ We hope that you will find great joy and meaning in our workshop! :joy:
   - [Mac](#mac-installation-guide)
   - [Windows](#windows-installation-guide)
 - [Projects setup guide](#projects-setup-guide)
+- [Credits](#credits)
 
 # Pre-workshop installation guide
 
@@ -191,3 +192,18 @@ See, I said it would be easy didn't I? :wink:
 Now that you have all the tools you need installed, have a look at our [projects setup guide](#projects-setup-guide) next!
 
 # Projects setup guide
+
+This section is under construction.
+
+# Credits
+
+This section is under construction.
+
+Presenters, installation guide writers, and material preparators:
+
+- Georgie | [GitHub](https://github.com/geoboom)
+- Rama | [GitHub](https://github.com/ramav111)
+
+The NUS Statistics Society workshop director:
+
+- Jet | [GitHub](https://github.com/jetnew)
