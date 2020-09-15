@@ -2,7 +2,9 @@
 
 ## 0.1 Pre-req: installing Homebrew
 
-Please follow the steps [here](https://treehouse.github.io/installation-guides/mac/homebrew) to install Homebrew for Mac. It's a package manager and installer for Mac.
+Please follow the steps [here](https://treehouse.github.io/installation-guides/mac/homebrew) to install Homebrew which is a package manager and installer for Mac. Note that installing Homebrew requires installing xcode first (included in the link) which takes a while. So grab a :coffee: while waiting!
+
+Afterwards, run `brew update`.
 
 ## 0.2 Pre-req: installing `wget`
 
@@ -35,9 +37,10 @@ By default, Anaconda's base environment ships with `jupyter notebook`. Run `jupy
 
 ## 2. Installing `nodejs` and `npm`
 
-Yay, you're done with the hardest :muscle: part of installing Anaconda :snake:. This part will be suuper easy in comparison! :smile: All you have to do is open up terminal and run this command by copying the whole command into your terminal and pressing enter ([source](https://nodejs.org/en/download/package-manager/#macos)):
+Yay, you're done with the hardest :muscle: part of installing Anaconda :snake:. This part will be suuper easy in comparison! :smile: All you have to do is open up terminal and run this command by copying the whole command into your terminal and pressing enter ([source](https://treehouse.github.io/installation-guides/mac/node-mac.html)):
 
 ```
+brew update
 brew install node
 ```
 
