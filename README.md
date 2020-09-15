@@ -36,8 +36,7 @@ Ensure you have a working installation of `python3` (in terminal, type `python3`
    - At **step 7**, choose "yes" when prompted "Do you wish the installer to initialize Anaconda3 by running conda init?". We'll need this for **step 11**.
    - At **step 11**, type `conda config --set auto_activate_base False` to prevent the conda base environment from being automatically activated each time you launch terminal.
 3. Wow, must've been a lot of steps and a lot of work :sweat:... BUT we're not yet done - we need to verify that your installation is working. Please restart (close and re-open) your terminal and run `conda activate base`. You should see a `(base)` pop up beside your name in terminal if your installation was successful.
-
-:tada::tada::tada: Congratulations, you've installed Anaconda! :tada::tada::tada:
+4. **Congratulations**, you've installed Anaconda! :tada::tada::tada:
 
 **Why is there a `(base)` beside my name?**
 
@@ -83,8 +82,7 @@ You can install Anaconda EITHER via the GRAPHICAL installer (clicky with mouse) 
    - At **step 7**, select "yes" when prompted "Do you wish the installer to initialize Anaconda3 by running conda init?". We'll need this for **step 11**.
    - At **step 11**, type `conda config --set auto_activate_base False` to prevent the conda base environment from being automatically activated each time you launch terminal. You may close the terminal now.
 3. Wow, must've been a lot of steps and a lot of work :sweat:... BUT we're not yet done - we need to verify that your installation is working. Please open a new terminal and run `conda activate base`. You should see a `(base)` pop up beside your name in terminal if your installation was successful.
-
-:tada::tada::tada: Congratulations, you've installed Anaconda! :tada::tada::tada:
+4. **Congratulations**, you've installed Anaconda! :tada::tada::tada:
 
 **Why is there a `(base)` beside my name?**
 
@@ -136,8 +134,7 @@ Fret not if you don't know what we're talking about - just follow the instructio
 2. After enabling wsl1, please restart :curly_loop: your computer. This step is mandatory.
 3. When your computer has restarted, you need to install the Ubuntu :penguin: distribution from the Microsoft Store :shopping_cart: (it's free). You may find it [here](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q).
 4. Once your Ubuntu has finished installing, follow the **Create a user account and password for your new Linux distribution** and **Update and upgrade packages** steps [here](https://docs.microsoft.com/en-us/windows/wsl/user-support). You may launch the Ubuntu terminal by pressing the WINDOWS key on your keyboard to bring up the start menu, typing "ubuntu", and selecting the Ubuntu app.
-
-Congratulations! :tada::tada::tada: You have successfully installed Ubuntu 18.04 wsl terminal.
+5. **Congratulations!** :tada::tada::tada: You have successfully installed Ubuntu 18.04 wsl terminal.
 
 ### 0.2. Pre-req: enabling copy-paste in wsl terminal
 
@@ -164,8 +161,7 @@ You can now press CTRL+SHIFT+V in wsl terminal to paste what you've copied into 
    - At **step 7**, choose "yes" when prompted "Do you wish the installer to initialize Anaconda3 by running conda init?". We'll need this for **step 11**.
    - At **step 11**, type `conda config --set auto_activate_base False` to prevent the conda base environment from being automatically activated each time you launch terminal.
 7. Wow, must've been a lot of steps and a lot of work :sweat:... BUT we're not yet done - we need to verify that your installation is working. Please restart (close and re-open) your terminal and run `conda activate base`. You should see a `(base)` pop up beside your name in terminal if your installation was successful.
-
-:tada::tada::tada: Congratulations, you've installed Anaconda! :tada::tada::tada:
+8. **Congratulations**, you've installed Anaconda! :tada::tada::tada:
 
 **Why is there a `(base)` beside my name?**
 
