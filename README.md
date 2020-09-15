@@ -33,7 +33,7 @@ If you use a **Mac**, click [here](mac.md).
 
 If you use **Linux**, click [here](linux.md).
 
-Please only follow **ONE** of the installation guides e.g. if you're using Mac please don't follow the Linux guide by accident. We can't help you with troubleshooting issues otherwise.
+Please only follow **ONE** of the installation guides e.g. if you're using Mac please don't follow the Linux guide by accident. We can't help you with troubleshooting issues otherwise. Please post a **Github issue** on this repo if you encounter any difficulties! 
 
 # Project setup
 
