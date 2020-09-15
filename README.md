@@ -235,8 +235,10 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 
 This section is under construction.
 
-- Jet | NUS Statistics Society Workshop Director | [GitHub](https://github.com/jetnew)
-- Rama | Presenter and material prep | [GitHub](https://github.com/ramav111)
-- Georgie | Presenter and material prep | [GitHub](https://github.com/geoboom)
+| Name    | Role                                        | Github                      |
+| ------- | ------------------------------------------- | --------------------------- |
+| Jet     | NUS Statistics Society Workshop Director    | https://github.com/jetnew   |
+| Rama    | Presenter, guide writing, and material prep | https://github.com/ramav111 |
+| Georgie | Presenter, guide writing, and material prep | https://github.com/geoboom  |
 
 [Dataset](https://github.com/prajnasb/observations/tree/master/experiements/dest_folder) for masked/no-masked.
