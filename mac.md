@@ -1,18 +1,18 @@
-## Mac installation guide
+# Mac installation guide
 
-### 0.1 Pre-req: installing Homebrew
+## 0.1 Pre-req: installing Homebrew
 
 Please follow the steps [here](https://treehouse.github.io/installation-guides/mac/homebrew) to install Homebrew for Mac. It's a package manager and installer for Mac.
 
-### 0.2 Pre-req: installing `wget`
+## 0.2 Pre-req: installing `wget`
 
 Type `brew install wget` to install `wget`. `wget` is a tool that helps you download files from the internet to your machine.
 
-### 0.3 Pre-req: installing `python3`
+## 0.3 Pre-req: installing `python3`
 
 Ensure you have a working installation of `python3` (in terminal, type `python3` and hit enter to check). If you do not have a working installation of `python3`, we advice you to search [mac python3 install](https://www.google.com/search?q=mac+python3+install) on Google and follow the instructions there :thumbsup:.
 
-### 1. Installing Anaconda
+## 1. Installing Anaconda
 
 You can install Anaconda EITHER via the GRAPHICAL installer (clicky with mouse) OR the TERMINAL (type with keyboard). We've got you covered for both.
 
@@ -33,7 +33,7 @@ You can install Anaconda EITHER via the GRAPHICAL installer (clicky with mouse) 
 
 By default, Anaconda's base environment ships with `jupyter notebook`. Run `jupyter notebook` in terminal to run the jupyter notebook server. Your local jupyter notebook website should automatically pop up in your favorite browser. To stop the server, press CTRL+C in terminal to terminate the running program.
 
-### 2. Installing `nodejs` and `npm`
+## 2. Installing `nodejs` and `npm`
 
 Yay, you're done with the hardest :muscle: part of installing Anaconda :snake:. This part will be suuper easy in comparison! :smile: All you have to do is open up terminal and run this command by copying the whole command into your terminal and pressing enter ([source](https://nodejs.org/en/download/package-manager/#macos)):
 
