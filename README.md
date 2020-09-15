@@ -31,7 +31,7 @@ Ensure you have a working installation of `python3` (in terminal, type `python3`
 ### 1. Installing Anaconda
 
 1. Download the [conda installer](https://repo.Anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh). Verify that the downloaded conda installer is in your Downloads folder i.e. there is a file called `~/Downloads/Anaconda3-2020.07-Linux-x86_64.sh`.
-2. Next, follow the official [Anaconda installation guide](https://docs.anaconda.com/anaconda/install/linux/), starting from **Installing on Linux > Installation > step 3** (the step which begins with "Enter the following to install Anaconda for Python 3.7") all the way to **step 11**. [Please](Please) take note of following points during installation:
+2. Next, follow the official [Anaconda installation guide](https://docs.anaconda.com/anaconda/install/linux/), starting from **Installing on Linux > Installation > step 3** (the step which begins with "Enter the following to install Anaconda for Python 3.7") all the way to **step 11**. Please take note of following points during installation:
    - At **step 3**, when typing `bash ~/Downloads/Anaconda3` you can press the TAB key to autocomplete the filepath for you. You might need this as the version of their Anaconda3 installer on their installation instructions might not be the same as the one you've downloaded.
    - At **step 7**, choose "yes" when prompted "Do you wish the installer to initialize Anaconda3 by running conda init?". We'll need this for **step 11**.
    - At **step 11**, type `conda config --set auto_activate_base False` to prevent the conda base environment from being automatically activated each time you launch terminal.
@@ -156,7 +156,7 @@ You can now press CTRL+SHIFT+V in wsl terminal to paste what you've copied into 
 3. Make a downloads folder by running `mkdir ~/Downloads`.
 4. Go into the downloads folder by running `cd ~/Downloads`.
 5. Download the conda installer by running `wget https://repo.Anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh`.
-6. Next, follow the official [Anaconda installation guide](https://docs.anaconda.com/anaconda/install/linux/), starting from **Installing on Linux > Installation > step 3** (the step which begins with "Enter the following to install Anaconda for Python 3.7") all the way to **step 11**. [Please](Please) take note of following points during installation:
+6. Next, follow the official [Anaconda installation guide](https://docs.anaconda.com/anaconda/install/linux/), starting from **Installing on Linux > Installation > step 3** (the step which begins with "Enter the following to install Anaconda for Python 3.7") all the way to **step 11**. Please take note of following points during installation:
    - At **step 3**, when typing `bash ~/Downloads/Anaconda3` you can press the TAB key to autocomplete the filepath for you. You might need this as the version of their Anaconda3 installer on their installation instructions might not be the same as the one you've downloaded.
    - At **step 7**, choose "yes" when prompted "Do you wish the installer to initialize Anaconda3 by running conda init?". We'll need this for **step 11**.
    - At **step 11**, type `conda config --set auto_activate_base False` to prevent the conda base environment from being automatically activated each time you launch terminal.
