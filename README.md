@@ -1,13 +1,13 @@
 # Welcome to NUS Statistics Society Facemask Detector Workshop!
 
 # Table of contents:
-    - [Pre-workshop installation guide](#pre-workshop-installation-guide)
-        - [Linux installation guide](#linux-installation-guide)
-        - [Windows installation guide](#windows-installation-guide)
-        - [Mac installation guide](#mac-installation-guide)
-        - [Projects setup guide](#projects-setup-guide)
+- [Pre-workshop installation guide](#pre-workshop-installation-guide)
+    - [Linux installation guide](#linux-installation-guide)
+    - [Windows installation guide](#windows-installation-guide)
+    - [Mac installation guide](#mac-installation-guide)
+- [Projects setup guide](#projects-setup-guide)
 
-## [Pre-workshop installation guide](#overview)
+## Pre-workshop installation guide
 This guide covers the installation of:
 * Anaconda/`conda` - a distribution of python which comes with a lot of data science packages.
 * `jupyter notebook` - a live python execution environment typically used for exploratory data analysis.
@@ -15,7 +15,7 @@ This guide covers the installation of:
 
 You may find the detailed installation instructions for your respective operating system (Mac/Windows/Linux) below.
 
-### [Linux installation guide](#linux-install)
+### Linux installation guide
 #### Prerequisite Step: `python3` installation
 Ensure you have a working installation of `python3` (in terminal, type `python3` and hit enter to check). If you do not have a working installation of `python3`, we advice you to search [linux python3 install](https://www.google.com/search?q=linux+python3+install) on Google and follow the instructions there. 
 #### Installing Anaconda
@@ -32,7 +32,7 @@ Congratulations, you're done with installing Anaconda!
 #### Installing `jupyter notebook`
 
 
-### [Windows installation guide](#windows-install)
-### [Mac installation guide](#mac-install)
+### Windows installation guide
+### Mac installation guide
 
-## [Projects setup guide](#projects-setup)
+## Projects setup guide
