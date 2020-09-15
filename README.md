@@ -235,11 +235,8 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 
 This section is under construction.
 
-Presenters, installation guide writers, and material preparators:
+- Jet | NUS Statistics Society Workshop Director | [GitHub](https://github.com/jetnew)
+- Rama | Presenter and material prep | [GitHub](https://github.com/ramav111)
+- Georgie | Presenter and material prep | [GitHub](https://github.com/geoboom)
 
-- Georgie | [GitHub](https://github.com/geoboom)
-- Rama | [GitHub](https://github.com/ramav111)
-
-The NUS Statistics Society workshop director:
-
-- Jet | [GitHub](https://github.com/jetnew)
+[Dataset](https://github.com/prajnasb/observations/tree/master/experiements/dest_folder) for masked/no-masked.
