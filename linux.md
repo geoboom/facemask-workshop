@@ -39,4 +39,4 @@ Now if you run `npm --verson` and `node --version` in terminal, your versions of
 
 **What do I do now?**
 
-Now that you have all the tools you need installed, have a look at our [project setup guide](#project-setup) next!
+Now that you have all the tools you need installed, have a look at our [project setup guide](README.md#project-setup) next!
