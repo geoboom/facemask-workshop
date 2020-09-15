@@ -27,11 +27,11 @@ This guide covers the installation of:
 
 You may find the detailed installation instructions for your favorite operating system (Linux/Mac/Windows) below. We know it looks pretty lengthy but it won't take more than 20 minutes! :pray::pray::pray:
 
-If you use a **Windows** machine, click [here](#windows-installation-guide).
+If you use a **Windows** machine, click [here](windows.md).
 
-If you use a **Mac**, click [here](#mac-installation-guide).
+If you use a **Mac**, click [here](mac.md).
 
-If you use **Linux**, click [here](#linux-installation-guide).
+If you use **Linux**, click [here](linux.md).
 
 Please only follow **ONE** of the installation guides e.g. if you're using Mac please don't follow the Linux guide by accident. We can't help you with troubleshooting issues otherwise.
 
