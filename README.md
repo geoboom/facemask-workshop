@@ -193,7 +193,16 @@ Now that you have all the tools you need installed, have a look at our [projects
 
 # Projects setup guide
 
-This section is under construction.
+## 1. Clone this repository
+
+1. Open up terminal (wsl terminal for Windows) and type `sudo apt update && sudo apt upgrade`. This ensures your system packages are all up to date.
+2. Clone this GitHub repository by typing: `git clone --depth 1 https://github.com/geoboom/facemask-workshop.git`
+
+## 2. Launch `jupyter notebook`
+
+1. While still in terminal, navigate to the notebook subfolder by typing `cd facemask-workshop/notebook` (you can press TAB for autocomplete).
+2. Type `conda activate base` to activate Anaconda's base environment. You should see `(base)` beside your name in terminal.
+3. Now run `jupyter notebook` and this notebook folder should open in Jupyter Notebook.
 
 # Credits
 
