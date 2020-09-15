@@ -13,8 +13,8 @@ We hope that you will find great joy and meaning in our workshop! :joy: Consider
 - [Project setup](#project-setup)
   - [Cloning this repo](#cloning-this-repo)
   - [Launching jupyter notebook](#launching-jupyter-notebook)
-  - [Running the website](<#running-the-frontend-(website)>)
-  - [Running the FastAPI server](<#running-the-backend-(fastapi-server)>)
+  - [Running the website](#running-the-frontend-website)
+  - [Running the FastAPI server](#running-the-backend-fastapi-server)
 - [Credits](#credits)
 
 # Pre-workshop installation guide
@@ -204,7 +204,7 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 ## Cloning this repo
 
 1. Open up terminal (wsl terminal for Windows) and type `sudo apt update && sudo apt upgrade`. This ensures you have the **latest system packages**.
-2. Run `git clone --depth 1 https://github.com/geoboom/facemask-workshop.git` to clone this repo.
+2. Run `git clone --depth 1 https://github.com/geoboom/facemask-workshop.git` to **clone this repo**.
 3. Run `ls` and you should see a folder called `facemask-workshop`.
 
 ## Launching `jupyter notebook`
