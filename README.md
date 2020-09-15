@@ -25,7 +25,7 @@ This guide covers the installation of:
 - `jupyter notebook` - a live python execution environment typically used for exploratory :mag: data analysis.
 - `nodejs` and `npm` - nodejs is a js (javascript) runtime built on chrome's V8 engine :car: and npm is a package manager for nodejs.
 
-You may find the detailed installation instructions for your favorite operating system (Linux/Mac/Windows) below. We know it looks pretty lengthy but it won't take more than 20 minutes! :pray::pray::pray:
+You may find the detailed installation instructions for your operating system (Linux/Mac/Windows) via the links below. We know the instructions might look pretty lengthy but it won't take more than 20 minutes! :pray::pray::pray:
 
 If you use a **Windows** machine, click [here](windows.md).
 
