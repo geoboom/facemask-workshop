@@ -1,10 +1,11 @@
 # Welcome to NUS Statistics Society Facemask Detector Workshop!
+The purpose of this repository is to **help you get started with the basic tools and code** needed to follow along in the workshop. It will also serve as the single source of truth, hosting the latest version of our facemask detector workshop material. We hope that you will find great joy and meaning in our workshop!
 
 # Table of contents:
 - [Pre-workshop installation guide](#pre-workshop-installation-guide)
-    - [Linux installation guide](#linux-installation-guide)
-    - [Windows installation guide](#windows-installation-guide)
-    - [Mac installation guide](#mac-installation-guide)
+    - [Linux](#linux-installation-guide)
+    - [Windows](#windows-installation-guide)
+    - [Mac](#mac-installation-guide)
 - [Projects setup guide](#projects-setup-guide)
 
 ## Pre-workshop installation guide
