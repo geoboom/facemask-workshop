@@ -1,0 +1,12 @@
+.videoContainer {
+  position: relative;
+  video {
+    z-index: -1;
+    width: 100%;
+  }
+  canvas {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+  }
+}

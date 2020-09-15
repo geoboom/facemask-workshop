@@ -1,0 +1,24 @@
+.imageContainer {
+  padding: 0px;
+  margin: 0px;
+  max-width: 100%;
+  overflow: auto;
+  flex: 1;
+}
+
+.detectionLogCard {
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+}
+
+.detectionLogCardBody {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .detectionLogCard {
+    height: calc(100vh - 230px - 3rem);
+  }
+}
