@@ -44,7 +44,7 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 ## Cloning this repo
 
 1. Open up terminal (wsl terminal for Windows) and type `sudo apt update && sudo apt upgrade`. This ensures you have the **latest system packages**.
-2. Run `git clone --depth 1 https://github.com/geoboom/facemask-workshop.git` to **clone this repo**.
+2. Run `git clone --depth 1 https://github.com/geoboom/facemask-workshop.git` to **clone this repo**. If you get a `git command not found` error, run `sudo apt install git` first then try cloning the repo again. 
 3. Run `ls` and you should see a folder called `facemask-workshop`.
 
 ## Launching `jupyter notebook`
