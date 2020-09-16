@@ -149,7 +149,7 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 
 1. Open up a new terminal and type `cd facemask-workshop` to navigate to the project's root folder.
 1. In the root folder, navigate to the **frontend subdirectory** by typing `cd frontend`.
-1. Type `npm install` to **install the frontend project dependencies**. This might take a while so grab a coffee :coffee:.
+1. Type `npm install` to **install the frontend project dependencies** specified in `package.json`. This might take a while so grab a coffee :coffee:.
 1. Once the dependencies have finished installing, type `npm run dev` to **run the website's server** (`nextjs`).
 1. Visit `localhost:3000` in your browser to **see the website live!**
 
@@ -159,7 +159,7 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 1. In the root folder, navigate to the **backend subdirectory** by typing `cd backend`.
 1. Type `python3 -m venv venv` to create a `python3` virtual environment in the backend directory.
 1. Type `source venv/bin/activate` to **activate this virtual environment**. You should see `(venv)` beside your name, indicating that the `venv` environment is activated.
-1. Run `pip install -r requirements.txt` to **install the dependencies** to this virtual environment. This might take a while so grab a coffee :coffee:.
+1. Run `pip install -r requirements.txt` to **install the dependencies** to this virtual environment, specified by `requirements.txt`. This might take a while so grab a coffee :coffee:.
 1. Once dependencies have finished installing, type `./run.sh` to **run the FastAPI** server and hit enter.
 
 # Credits
