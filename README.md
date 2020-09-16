@@ -146,7 +146,7 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 1. Type `conda activate base` to **activate Anaconda's base environment**. You should see `(base)` beside your name in terminal.
 1. Now run `jupyter notebook` (`jupyter notebook --no-browser` if you're on windows) and this notebook folder should open in Jupyter Notebook on your browser.
    - If you're on windows, copy the url that looks like `http://127.0.0.1..token=..` OR `http://localhost..token=..`displayed in the terminal and paste it in your browser. This is the url to your Jupyter Notebook.
-   - If for some reason Jupyter Notebook in the browser does not show the files in `notebook/` folder, then go back to terminal and hit CTRL+C to stop the server. Once the server has stopped, run `jupyter notebook --no-browser --notebook-dir=.`.
+   - If for some reason Jupyter Notebook in the browser does not show the files in `notebook/` folder, then go back to terminal and hit CTRL+C to stop the server. Once the server has stopped, run `jupyter notebook --no-browser --notebook-dir=.` and try accessing it on the browser again.
 
 ## Running the frontend (website)
 
