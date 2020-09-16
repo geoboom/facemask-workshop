@@ -54,7 +54,7 @@ Thank you :pray:
 
 This is how the project is 🏘️🏗️structured🏢🏬. Do have a read to orient:angel: yourself.
 
-## At a glance
+## From the project root
 
 ```
 .
