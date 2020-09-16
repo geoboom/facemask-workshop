@@ -160,6 +160,7 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 1. Type `python3 -m venv venv` to create a `python3` virtual environment in the backend directory.
 1. Type `source venv/bin/activate` to **activate this virtual environment**. You should see `(venv)` beside your name, indicating that the `venv` environment is activated.
 1. Run `pip install -r requirements.txt` to **install the dependencies** to this virtual environment, specified by `requirements.txt`. This might take a while so grab a coffee :coffee:.
+   - **Troubleshooting:** if you get "ERROR: Could not find a version that satisfies the requirement opencv-contrib-python=4.4.0.42..." attempting this step, fret not. Just run `pip install opencv-contrib-python` then `pip install -r requirements.txt`. More info in [this issue](https://github.com/geoboom/facemask-workshop/issues/1#issuecomment-693269207).
 1. Once dependencies have finished installing, type `./run.sh` to **run the FastAPI** server and hit enter.
 
 # Credits
