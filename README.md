@@ -134,7 +134,9 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 
 ## Cloning this repo
 
-1. Open up terminal (wsl terminal for Windows) and type `sudo apt update && sudo apt upgrade`. This ensures you have the **latest system packages**.
+1. Ensure you have the **latest system packages**.
+    1. (For Windows/Linux) Open up terminal (wsl terminal for Windows) and type `sudo apt update && sudo apt upgrade`. 
+    2. (For Mac) Open up terminal and type `brew update && brew upgrade`. 
 2. Run `git clone --depth 1 https://github.com/geoboom/facemask-workshop.git` to **clone this repo**.
    - **Troubleshooting:** if you get a `git command not found` error, run `sudo apt install git` first then try cloning the repo again.
 3. Run `ls` and you should see a folder called `facemask-workshop`.
