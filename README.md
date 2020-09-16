@@ -4,6 +4,8 @@ The purpose of this repository is to **help you get started with the basic tools
 
 We hope that you will find great joy and meaning in our workshop! :joy: Consider giving this repository a star :star: if you found it helpful!
 
+![website sample](sample.png)
+
 # Table of contents:
 
 - [Pre-workshop installation guide](#pre-workshop-installation-guide)
