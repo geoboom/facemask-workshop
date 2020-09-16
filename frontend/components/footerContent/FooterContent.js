@@ -20,13 +20,13 @@ const FooterContent = () => {
       </Row>
       <Row className="justify-content-center mt-4">
         <Col xs="auto" className="text-center ml-md-3 mr-md-3">
-          <a href="/">Contact</a>
+          <a href="https://github.com/geoboom/facemask-workshop">Contact</a>
         </Col>
         <Col xs="auto" className="text-center ml-md-3 mr-md-3">
-          <a href="/">About</a>
+          <a href="https://github.com/geoboom/facemask-workshop">About</a>
         </Col>
         <Col xs="auto" className="text-center ml-md-3 mr-md-3">
-          <a href="/">GitHub</a>
+          <a href="https://github.com/geoboom/facemask-workshop">GitHub</a>
         </Col>
       </Row>
     </Container>
