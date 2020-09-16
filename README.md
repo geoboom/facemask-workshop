@@ -144,7 +144,8 @@ Note that the **backend code is incomplete** - you'll be filling in the blanks d
 1. In terminal, type `cd facemask-workshop` to navigate to the project's root folder.
 1. In the root folder, navigate to the **notebook subdirectory** by typing `cd notebook`.
 1. Type `conda activate base` to **activate Anaconda's base environment**. You should see `(base)` beside your name in terminal.
-1. Now run `jupyter notebook` and this notebook folder should open in Jupyter Notebook on your browser.
+1. Now run `jupyter notebook` (`jupyter notebook --no-browser` if you're on windows) and this notebook folder should open in Jupyter Notebook on your browser.
+   - if you're on windows, copy the url that looks like `http://localhost..token=..`displayed in the terminal and paste it in your browser. This is the url to your Jupyter Notebook.
 
 ## Running the frontend (website)
 
