@@ -24,7 +24,7 @@ We hope that you will find great joy and meaning in our workshop! :joy: Consider
 - [Credits](#credits)
 
 # Workshop video
-## View the workshop video [here!](https://www.youtube.com/watch?v=1NeKH1Ih0pQ)
+View the workshop video [here!](https://www.youtube.com/watch?v=1NeKH1Ih0pQ)
 
 # Pre-workshop installation guide
 
