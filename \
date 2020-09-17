@@ -137,7 +137,7 @@ This is how the project is 🏘️🏗️structured🏢🏬. Do have a read to o
 
 Follow the instructions below to get familiarized with the project repository. You may make reference to this section during the workshop itself to perform certain tasks :book:.
 
-If you wish to access the incomplete pre-workshop code, type `git checkout workshop` to switch to the `workshop` branch (while in the project folder). To revert back to the `master` branch containing the working code, type `git checkout master`.
+If you wish to access the incomplete pre-workshop code, type `git checkout workshop` to switch to the `workshop` branch. To revert back to the `master` branch containing working code, type `git checkout master`.
 
 ## Cloning this repo
 
