@@ -2,9 +2,11 @@
 
 ## View the workshop video [here!](https://www.youtube.com/watch?v=1NeKH1Ih0pQ)
 
-The purpose of this repository is to **help you get started with the basic tools :hammer: and code :computer:** needed to follow along in the workshop. It will also serve as the single source of truth, hosting the latest version of our facemask :mask: detector workshop material :books:.
+**Note:** if you attended the workshop or cloned this repo before 18 September 2020, please type `git pull` while in the project folder to pull the latest code in which the backend is completed and everything should be working!
 
-We hope that you will find great joy and meaning in our workshop! :joy: Consider giving this repository a star :star: if you found it helpful!
+The purpose of this repo is to **help you get started with the basic tools :hammer: and code :computer:** needed to follow along in the workshop. It will also serve as the single source of truth, hosting the latest version of our facemask :mask: detector workshop material :books:.
+
+We hope that you will find great joy and meaning in our workshop! :joy: Consider giving this repo a star :star: if you found it helpful!
 
 ![website sample](sample.png)
 
@@ -135,7 +137,7 @@ This is how the project is 🏘️🏗️structured🏢🏬. Do have a read to o
 
 # Project setup
 
-Follow the instructions below to get familiarized with the project repository. You may make reference to this section during the workshop itself to perform certain tasks :book:.
+Follow the instructions below to get familiarized with the project repo. You may make reference to this section during the workshop itself to perform certain tasks :book:.
 
 If you wish to access the incomplete pre-workshop code, type `git checkout workshop` to switch to the `workshop` branch (while in the project folder). To revert back to the `master` branch containing the working code, type `git checkout master`.
 
