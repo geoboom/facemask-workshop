@@ -18,7 +18,6 @@ CV2_TRACKERS = {
     "kcf": cv2.TrackerKCF_create,
     "mosse": cv2.TrackerMOSSE_create,
 }
-tracker_name = "csrt"
 LOGGING_DEFAULT = {
     "detections": 0,
     "total_time": 0.0,
@@ -26,6 +25,7 @@ LOGGING_DEFAULT = {
     "min_time": 10000.0,
     "max_time": -10000.0,
 }
+tracker_name = "csrt"
 
 
 class Detector:

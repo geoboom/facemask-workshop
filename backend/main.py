@@ -46,22 +46,30 @@ class Temp(BaseModel):
     coords: typing.List[typing.Any]
 
 
-# TODO: initialize our Detector object
+# initialize our Detector object
+detector = Detector()
 
-
+# Our client will send a HTTP POST request to this endpoint
+# with the image (video frame) as payload, stored in formData of 
+# the post request's body (read more on POST requests online)
 @app.post("/detect", response_model=DetectionsData)
 async def detect_face_mask(file: UploadFile = File(...)):
     try:
-        # read and predict facemask on uploaded frame
         contents = await file.read()
         pil_image = Image.open(io.BytesIO(contents))
 
-        # TODO: predict using the detector and get the latest logs
+        # predict using our detector and store the results in results (list)
+        # and whether detection log has been updated in detection_log_updated (bool)
+        results, detection_log_updated = detector.predict(pil_image, print_logs=True)
+
+        # get the latest logs e.g. average detection time, num_detections, etc
+        # after the last prediction/inference was performed
+        logs = detector.get_logs()
 
         return {
-            "results": [{ "wearing_mask": False, "confidence": 1.0, "coords": [] }],
-            "detection_log_updated": True,
-            "logs": [],
+            "results": results,
+            "detection_log_updated": detection_log_updated,
+            "logs": logs,
         }
 
     except Exception as e:
@@ -69,6 +77,10 @@ async def detect_face_mask(file: UploadFile = File(...)):
         raise HTTPException(status_code=500, detail="Detection failed.")
 
 
+# When our client sends a HTTP GET request to this endpoint, it'll receive a
+# list of URLs corresponding to where the images are saved on the server.
+# This list is sorted by creation time in descending order i.e. latest to earliest.
+# You can actually visit localhost:8000/detection_log to check it out.
 @app.get("/detection_log", response_model=typing.List[typing.Any])
 async def get_detection_log():
     os.chdir("detection_log")
