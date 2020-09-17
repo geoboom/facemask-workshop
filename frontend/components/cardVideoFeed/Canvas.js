@@ -9,12 +9,12 @@ const validDetections = (detectionsData) =>
 // given coords of bounding box, draws labelled bounding box around face
 const drawBoundingBox = (ctx, coords, label, mask) => {
   ctx.font = 'bold 20px Arial';
-  ctx.fillStyle = mask ? 'orange' : 'red';
+  ctx.fillStyle = mask ? 'yellow' : 'red';
   ctx.fillText(label, coords[0], coords[1] - 10);
 
   ctx.beginPath();
   ctx.lineWidth = '2';
-  ctx.strokeStyle = mask ? 'orange' : 'red';
+  ctx.strokeStyle = mask ? 'yellow' : 'red';
   ctx.rect(...coords);
   ctx.stroke();
 };
