@@ -10,6 +10,7 @@ We hope that you will find great joy and meaning in our workshop! :joy: Consider
 
 # Table of contents:
 
+- [Workshop video](#workshop-video)
 - [Pre-workshop installation guide](#pre-workshop-installation-guide)
   - [Windows](windows.md)
   - [Mac](mac.md)
@@ -21,6 +22,9 @@ We hope that you will find great joy and meaning in our workshop! :joy: Consider
   - [Running the website](#running-the-frontend-website)
   - [Running the FastAPI server](#running-the-backend-fastapi-server)
 - [Credits](#credits)
+
+# Workshop video
+## View the workshop video [here!](https://www.youtube.com/watch?v=1NeKH1Ih0pQ)
 
 # Pre-workshop installation guide
 
