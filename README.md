@@ -1,5 +1,7 @@
 # Welcome to The NUS Statistics Society Facemask Detector Workshop!
 
+https://www.youtube.com/watch?v=1NeKH1Ih0pQ
+
 The purpose of this repository is to **help you get started with the basic tools :hammer: and code :computer:** needed to follow along in the workshop. It will also serve as the single source of truth, hosting the latest version of our facemask :mask: detector workshop material :books:.
 
 We hope that you will find great joy and meaning in our workshop! :joy: Consider giving this repository a star :star: if you found it helpful!
