@@ -180,12 +180,10 @@ If you wish to access the incomplete pre-workshop code, type `git checkout works
 
 # Credits
 
-This section is under construction.
-
 | Name    | Role                                        | Github                      |
 | ------- | ------------------------------------------- | --------------------------- |
 | Jet     | NUS Statistics Society Workshop Director    | https://github.com/jetnew   |
-| Rama    | Presenter, guide writing, and material prep | https://github.com/ramav111 |
+| Rama    | Presenter, guide writing, and material prep | https://github.com/ramaven  |
 | Georgie | Presenter, guide writing, and material prep | https://github.com/geoboom  |
 
 [Dataset](https://github.com/prajnasb/observations/tree/master/experiements/dest_folder) for masked/no-masked.
